@@ -1,0 +1,17 @@
+
+body{ 
+	font: 14px sans-serif; 
+	#background-color: #FFDEA1;
+	background-image: url('homepage.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.wrapper{ 
+	width: 360px;
+	padding: 20px;
+	background-color: rgba(255, 201, 201, 0.90);
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
